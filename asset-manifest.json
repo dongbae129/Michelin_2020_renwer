@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/Michelin-in-Seoul/static/css/main.2f4e5556.chunk.css",
-    "main.js": "/Michelin-in-Seoul/static/js/main.29749154.chunk.js",
-    "main.js.map": "/Michelin-in-Seoul/static/js/main.29749154.chunk.js.map",
-    "runtime-main.js": "/Michelin-in-Seoul/static/js/runtime-main.81ac1826.js",
-    "runtime-main.js.map": "/Michelin-in-Seoul/static/js/runtime-main.81ac1826.js.map",
-    "static/js/2.eac46494.chunk.js": "/Michelin-in-Seoul/static/js/2.eac46494.chunk.js",
-    "static/js/2.eac46494.chunk.js.map": "/Michelin-in-Seoul/static/js/2.eac46494.chunk.js.map",
-    "index.html": "/Michelin-in-Seoul/index.html",
-    "static/css/main.2f4e5556.chunk.css.map": "/Michelin-in-Seoul/static/css/main.2f4e5556.chunk.css.map",
-    "static/js/2.eac46494.chunk.js.LICENSE.txt": "/Michelin-in-Seoul/static/js/2.eac46494.chunk.js.LICENSE.txt",
-    "static/media/restaurantball.css": "/Michelin-in-Seoul/static/media/splash.b460c269.jpg",
-    "static/media/home.css": "/Michelin-in-Seoul/static/media/waterback.97f800ec.png"
+    "main.css": "/Michelin_2020_renwer/static/css/main.56291d24.chunk.css",
+    "main.js": "/Michelin_2020_renwer/static/js/main.29749154.chunk.js",
+    "main.js.map": "/Michelin_2020_renwer/static/js/main.29749154.chunk.js.map",
+    "runtime-main.js": "/Michelin_2020_renwer/static/js/runtime-main.6379eb2e.js",
+    "runtime-main.js.map": "/Michelin_2020_renwer/static/js/runtime-main.6379eb2e.js.map",
+    "static/js/2.eac46494.chunk.js": "/Michelin_2020_renwer/static/js/2.eac46494.chunk.js",
+    "static/js/2.eac46494.chunk.js.map": "/Michelin_2020_renwer/static/js/2.eac46494.chunk.js.map",
+    "index.html": "/Michelin_2020_renwer/index.html",
+    "static/css/main.56291d24.chunk.css.map": "/Michelin_2020_renwer/static/css/main.56291d24.chunk.css.map",
+    "static/js/2.eac46494.chunk.js.LICENSE.txt": "/Michelin_2020_renwer/static/js/2.eac46494.chunk.js.LICENSE.txt",
+    "static/media/restaurantball.css": "/Michelin_2020_renwer/static/media/splash.b460c269.jpg",
+    "static/media/home.css": "/Michelin_2020_renwer/static/media/waterback.97f800ec.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.81ac1826.js",
+    "static/js/runtime-main.6379eb2e.js",
     "static/js/2.eac46494.chunk.js",
-    "static/css/main.2f4e5556.chunk.css",
+    "static/css/main.56291d24.chunk.css",
     "static/js/main.29749154.chunk.js"
   ]
 }
